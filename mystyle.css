@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100px;
+}
+
+
+
+
+
+body{
+    width: 80%;
+  
+}
+
+
+.botonCalcular{
+    padding: 1em;
+    background-color:burlywood;
+}
+
+.botonCalcular:hover{
+    padding: 1em;
+    background-color:chartreuse;
+}
+
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.formulario{
+    background-color:darkblue;
+
+}
+
